@@ -26,8 +26,5 @@ NewsGenie is an AI-powered agent that:
 3. Run backend: `npm install && npm start`
 4. Run frontend: `cd client && npm install && npm start`
 
-## Demo
-[Optional: Link to demo video]
-
 ## Contributors
-- [Your Name]
+- [Aahant Kumar]
